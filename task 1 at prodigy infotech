@@ -1,0 +1,6 @@
+Task 01: Implement Caesar Cipher 🔒
+Developed a Python program to encrypt and decrypt text using the Caesar Cipher algorithm.
+
+Allowed users to input custom messages and shift values for flexible encryption and decryption.
+
+Skills learned: String manipulation, modular arithmetic, basic cryptography.
